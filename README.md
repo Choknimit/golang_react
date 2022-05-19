@@ -1,1 +1,1 @@
-# golang_react
+# golang-react
